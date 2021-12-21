@@ -25,3 +25,5 @@ is.vector(Games[1,])
 #drop removes unnecessary dimensions - Also keeps everything as a matrix
 Games[1,,drop=F]
 is.matrix(Games[1,,drop=F])
+
+#you can use this manipulation in matrix visualizations
